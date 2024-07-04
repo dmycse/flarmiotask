@@ -1,7 +1,7 @@
 # Test Task (Flarmio)
 
 ## Description
-Implement the design on a form as identical as possible.
+Implement the design of a form as identical as possible.
 The input field should only allow numbers bigger than 10.
 
 ## Done
